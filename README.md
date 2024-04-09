@@ -1,16 +1,11 @@
 # urunler_uygulamasi
 
-A new Flutter project.
+this is a simple basic flutter products application demo
 
-## Getting Started
+### project image
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/MhmmdAkcby/UrunlerUygulamasi/assets/129775174/fd3c30df-98e3-4d28-bb3d-883dadaac8e8)
 
-A few resources to get you started if this is your first Flutter project:
+### project video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![product](https://github.com/MhmmdAkcby/UrunlerUygulamasi/assets/129775174/be1e7ec0-46f1-4863-96ac-b37aceaede85)
