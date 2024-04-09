@@ -1,0 +1,4 @@
+#Tue Apr 02 17:52:23 TRT 2024
+base.0=C\:\\Users\\asus\\Desktop\\flutter_demo\\urunler_uygulamasi\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
