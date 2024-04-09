@@ -8,4 +8,4 @@ this is a simple basic flutter products application demo
 
 ### project video
 
-![product](https://github.com/MhmmdAkcby/UrunlerUygulamasi/assets/129775174/be1e7ec0-46f1-4863-96ac-b37aceaede85)
+https://github.com/MhmmdAkcby/UrunlerUygulamasi/assets/129775174/94e1522f-cb95-4376-880f-b65525e29699
